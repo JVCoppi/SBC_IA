@@ -1,0 +1,15 @@
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\bin\Debug\Process.exe.config
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\bin\Debug\Process.exe
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\bin\Debug\Process.pdb
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\bin\Debug\MongoDB.Bson.dll
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\bin\Debug\MongoDB.Driver.Core.dll
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\bin\Debug\MongoDB.Driver.dll
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\bin\Debug\MongoDB.Bson.xml
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\bin\Debug\MongoDB.Driver.xml
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\bin\Debug\MongoDB.Driver.Core.xml
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\obj\Debug\Process.exe
+c:\Users\joãovitor\documents\visual studio 2015\Projects\SBC\Process\obj\Debug\Process.pdb
+C:\Users\JoãoVitor\Documents\Visual Studio 2015\Projects\SBC\Process\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\JoãoVitor\Documents\Visual Studio 2015\Projects\SBC\Process\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\JoãoVitor\Documents\Visual Studio 2015\Projects\SBC\Process\bin\Debug\MongoDB.Driver.Legacy.xml
